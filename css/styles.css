@@ -13,14 +13,16 @@ nav a:hover
 {
     background-color: blanchedalmond;
     border-radius: 5px;
-    height: 300px;
+    min-height: 300px;
+    height: auto;
 }
 
 .infobox-2
 {
     background-color: rgb(224, 255, 189);
     border-radius: 5px;
-    height: 300px;
+    min-height: 300px;
+    height: auto;
 }
 
 
