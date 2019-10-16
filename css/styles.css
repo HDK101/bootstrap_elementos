@@ -1,0 +1,26 @@
+nav
+{
+    background-color: rgb(75, 0, 214);
+}
+
+nav a:hover
+{
+    text-shadow: 1px 1px 3px black;
+}
+
+/*CLASSES*/
+.infobox-1
+{
+    background-color: blanchedalmond;
+    border-radius: 5px;
+    height: 300px;
+}
+
+.infobox-2
+{
+    background-color: rgb(224, 255, 189);
+    border-radius: 5px;
+    height: 300px;
+}
+
+
